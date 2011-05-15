@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.googlecode.tcime;
+package com.googlecode.tcime.tablet;
 
 import android.content.Context;
 import android.util.AttributeSet;

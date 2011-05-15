@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.googlecode.tcime;
-
-import android.content.Context;
+package com.googlecode.tcime.tablet;
 
 import java.text.Collator;
 import java.util.Arrays;
 import java.util.Locale;
+
+import android.content.Context;
 
 /**
  * Extends WordDictionary to provide cangjie word-suggestions.

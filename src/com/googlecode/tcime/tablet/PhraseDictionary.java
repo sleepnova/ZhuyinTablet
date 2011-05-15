@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.googlecode.tcime;
-
-import android.content.Context;
-import android.util.Log;
+package com.googlecode.tcime.tablet;
 
 import java.util.Arrays;
 import java.util.concurrent.CountDownLatch;
+
+import android.content.Context;
+import android.util.Log;
 
 /**
  * Reads a phrase dictionary and provides following-word suggestions as a list

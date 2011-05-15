@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.googlecode.tcime;
-
-import android.util.Log;
+package com.googlecode.tcime.tablet;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.util.concurrent.CountDownLatch;
+
+import android.util.Log;
 
 /**
  * Loads a dictionary in a different thread.

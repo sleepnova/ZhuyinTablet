@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.googlecode.tcime;
+package com.googlecode.tcime.tablet;
 
 /**
  * Extends Editor to compose by cangjie rules. 
