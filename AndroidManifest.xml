@@ -19,7 +19,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" 
         package="com.googlecode.tcime.tablet"
-        android:versionName="0.1" android:versionCode="0" android:installLocation="auto">
+        android:versionName="0.1" android:installLocation="auto" android:versionCode="1">
     <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="11"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
     <application android:label="@string/ime_name" android:icon="@drawable/icon">
