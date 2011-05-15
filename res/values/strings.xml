@@ -21,7 +21,6 @@
     <!-- Titles for IME  -->
     <string name="ime_name">注音輸入法</string>
     <string name="zhuyin_ime_name">注音輸入法</string>
-    <string name="cangjie_ime_name">倉頡輸入法</string>
 
     <!-- Labels on soft keys -->
     <string name="label_english">英文</string>
