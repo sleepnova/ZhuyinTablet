@@ -18,10 +18,10 @@
 -->
 
 <resources>
-    <dimen name="key_height">70dip</dimen>
-    <dimen name="key_height_bottom_row">70dip</dimen>
-    <dimen name="key_height_popup">70dip</dimen>
-    <dimen name="key_height_zhuyin">70dip</dimen>
+    <dimen name="key_height">72dip</dimen>
+    <dimen name="key_height_bottom_row">72dip</dimen>
+    <dimen name="key_height_popup">72dip</dimen>
+    <dimen name="key_height_zhuyin">72dip</dimen>
     <dimen name="candidate_font_height">64sp</dimen>
     <dimen name="candidates_view_height">70sp</dimen>
 </resources>
