@@ -34,16 +34,6 @@
             <meta-data android:name="android.view.im" android:resource="@xml/method" />
         </service>
 
-		<!-- 
-        <service android:name="CangjieIME" android:label="@string/cangjie_ime_name"
-                android:permission="android.permission.BIND_INPUT_METHOD">
-            <intent-filter>
-                <action android:name="android.view.InputMethod" />
-            </intent-filter>
-            <meta-data android:name="android.view.im" android:resource="@xml/method" />
-        </service>
-		-->
-		
         <activity android:name="ImePreferenceActivity" android:label="@string/ime_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
